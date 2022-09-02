@@ -8,7 +8,7 @@ cin >>n;
 while(i <= 10)
 
 {
-    cout << n << "*" << i << "=" << n* i <<  " " << endl;
+    cout << n << "*" << i << "=" << n* i <<  " " << "gigi"<< endl;
     i++;
 }
 
